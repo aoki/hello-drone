@@ -1,0 +1,19 @@
+{
+  "name": "hello-drone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello Drone!!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ringohub/hello-drone.git"
+  },
+  "author": "Yoshiki Aoki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ringohub/hello-drone/issues"
+  },
+  "homepage": "https://github.com/ringohub/hello-drone#readme"
+}
