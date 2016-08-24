@@ -1,0 +1,6 @@
+build:
+  image: alpine
+  commands:
+    - printf 'Hello drone\n'
+    - cat /etc/os-release
+
